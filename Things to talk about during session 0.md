@@ -27,7 +27,7 @@ share: "true"
 	- Feel free to DM me about this at **any** point
 - Roles
 	- I provide the setting, and rules. You provide the theme music, together we make the story happen
-- [[House rules|House rules]]
+- [House rules](./House%20rules.md)
 	- Can be more rules put in based on suggestions
 	- Hexagons for world map
 - Tools & Practicalities
