@@ -1,0 +1,9 @@
+---
+share: "true"
+---
+
+# Transportation Guild
+The transportation guild is an organisation active in most of the world. They are a more secretive organisation that maintains the teleportation circles in both [Aethunar](./Aethunar.md) and [Velandra](./Velandra.md). Each member of the guild wears clothing made of a dark green wool. The only thing that separates them from other commoners is that their belt contains a simple icon depicting a humanoid walking through a portal. From the outside there doesn't seem to be a clear indication on where the guild is based, how it selects it members, and how big the organisation truly is. Whilst there usually are four guild members handling the transport through the circles, they are nearly never seen anywhere else. A more common name for the guild members is Porta's. Their portals are of the best quality, as they will spit you out at the exact location requested.
+
+## 20 years ago
+Before the fog took hold across [Velandra](./Velandra.md), something unexpected happened. Eye-witnesses reported that a person wearing green silk clothing stepped through the portal, covered in blood. He was only able to walk a few meters before collapsing. One of the local guild members rushed over too him, and tried to get him up. The bloodied man however was clearly very injured and only managed to whisper a few words to the local guild member before tilting his head back, limp, dead. The guild members announced that there would be no more departures for the next few hours, and ushered everyone to leave. After which it became very silent. That evening guards were dispatched to see what was going on. They found the area to be emptied out. All the circles were gone. There were no documents left behind, or valuables, or money, or anything. There was no trace of anyone belonging to the Transportation guild.
