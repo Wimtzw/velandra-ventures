@@ -1,11 +1,11 @@
-## Velandra Ventures
-This is a public repo containing information about the pathfinder campaign I'm hosting. This includes but is not limited to:
-- World Map
-- City Maps
-- Lore
-- Rules
-- NPC's
+# Velandra Ventures
+This is a public repo containing information about the pathfinder campaign I'm hosting. Below here is a simple navigation menu to more easily nagivate through the files that are present here. As the campaign moves forwards, more files will be added here for public viewing.
 
+## Currently present here is:
+- Session 0
+  - [House rules](./House%20rules.md)
+  - [Pre-story](./Main%20story.md)
+  - [session0](./Things%20to%20talk%20about%20during%20session%200.md)   
 - Lore
   - People
     - [Coedenwych](./Coedenwych.md)
@@ -24,5 +24,5 @@ This is a public repo containing information about the pathfinder campaign I'm h
       - [Praxidon](./Praxidon.md)
     - World map
       - [World map](./Worldmap.md)
-     
+Tip: Open the image below in a new tab. It's an SVG but quite large     
 ![Word map in vector format](./Assets/Maps/World/world_map.svg)
