@@ -2,4 +2,4 @@
 share: "true"
 ---
 
-[map_printout_world.png](./Assets/Maps/World/map_printout_world.png)
+![world_map.svg](./Assets/Maps/World/world_map.svg)
