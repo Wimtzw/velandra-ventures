@@ -25,4 +25,4 @@ This is a public repo containing information about the pathfinder campaign I'm h
     - World map
       - [World map](./Worldmap.md)
      
-![Word map svg](./Assets/Maps/World/World_map.svg)
+![Word map in vector format](./Assets/Maps/World/world_map.svg)
