@@ -4,7 +4,7 @@ This is a public repo containing information about the pathfinder campaign I'm h
 ## Currently present here is:
 - Session 0
   - [House rules](./House%20rules.md)
-  - [Prologue](./Prologue)
+  - [Prologue](./Prologue.md)
   - [Story](./Main%20story.md)
   - [Session 0](./Things%20to%20talk%20about%20during%20session%200.md)   
 - Lore
