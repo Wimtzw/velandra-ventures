@@ -4,3 +4,12 @@ share: "true"
 # Praxidon
 
 Mechanisms and industrialisation are the two things most known about the Praxidon continent. The land it self has very little connection to magic beyond a few locations. Therefore within the nation there has been a constant push for innovation and mechanisation, ruining most of the little connection to the magic it still had. People who have spent time there talk about large wooden and metal structures that go through the terrain guided by two rails, large boat like creations float through the skies held aloft by large sacks filled with air. Speaking of the air, the quality of the air isn't good. And the injuries people get here are often way harder to cure. Because Praxidon has lost most of it's connection with nature, so has it with the gods. Magical healing here is neigh non-existing. In terms of trade it imports food from [Aethunar](./Aethunar.md) (for the common people) and [Velandra](./Velandra.md) (for the wealthy and royalty). Praxidon exports rare earth minerals, textile products and mass manufactured products. It's population is mostly humans, gnomes and dwarves. There are rumours some elves and ents are still hiding in a few far corners, but those are considered to be myth.
+
+
+---
+Praxidon is divided in the following regions:
+- [Kingdom of Diton](./Kingdom%20of%20Diton.md)
+- [Kwaihung](./Kwaihung.md)
+- [Mukian Theocracy](./Mukian%20Theocracy.md)
+- [Principality of Khangehia](./Principality%20of%20Khangehia.md)
+- [Republic of Laiwania](./Republic%20of%20Laiwania.md)
