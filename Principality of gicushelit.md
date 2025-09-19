@@ -1,0 +1,7 @@
+---
+share: "true"
+---
+## Principality of Gicushelit
+The Principality of Gicushelit is a nation located in the south of [Aethunar](./Aethunar.md). It is bordered by the [Holy State of Magevaria](./Holy%20State%20of%20Magevaria.md) in the north, the [Kingdom of Diton](./Kingdom%20of%20Diton.md) in the west, and the [Principality of Avanoei](./Principality%20of%20Avanoei.md) in the east.
+
+Both the [Principality of gicushelit](Principality%20of%20gicushelit.md) and the [Principality of Avanoei](./Principality%20of%20Avanoei.md) used to be part of what is now known as the [Kingdom of Diton](./Kingdom%20of%20Diton.md). However, both principalities split from the kingdom after the crown was seized by a new family. Gicushelit is currently lead by prince  [Michael  Sloan](Michael%20%20Sloan.md). Whilst most of the older generation here has had basic military training, the new generation growing up here has had more freedom. To celebrate their independence they hold an art competition once a year, where people across the nation come together to dance and show various paintings made by masters of their craft. Due to their history the people here don't like outsiders. As they have been at war the [Kingdom of Diton](./Kingdom%20of%20Diton.md) and the [Holy State of Magevaria](./Holy%20State%20of%20Magevaria.md) in the past.
