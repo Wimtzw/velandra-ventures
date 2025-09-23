@@ -18,7 +18,7 @@ share: "true"
 - Scheduling
 	- GM preferences
 	- Player preferences
-	- Weekly or Bi-weekly
+	- Weekly or Bi-weekly or Tri-weekly
 	- What happens if one player misses a session
 	- Timespan
 - Consent / lines and veils
@@ -33,7 +33,7 @@ share: "true"
 - Tools & Practicalities
 	- Discord
 	- https://github.com/Wimtzw/velandra-ventures/tree/main 
-	- VTT
+	- VTT?
 		- Roll20
 		- Foundry
 		- Table Top Simulator
@@ -47,4 +47,4 @@ share: "true"
 	- VTT Specific
 	- I would love to know backstories for your characters, if you need information about the world for it please let me know
 		- Characters need to be finalised before session 1
-		- Backstories need to be largely done before session 1
+		- Backstories can wait, but preferably largely written down before session 1
